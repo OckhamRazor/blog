@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2018/02/14/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h1 id="travis-depoly"><a href="#travis-depoly" class="headerlink" title="travis depoly"></a>travis depoly</h1><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[不同色调物体搭配与强调关系]]></title>
+      <url>/2017/12/29/shoot-0x00/</url>
+      <content type="html"><![CDATA[<h1 id="0x00-不同色调物体搭配与强调关系"><a href="#0x00-不同色调物体搭配与强调关系" class="headerlink" title="0x00 不同色调物体搭配与强调关系"></a>0x00 不同色调物体搭配与强调关系</h1><p>上周，我买了一台📷（佳能800D）。大概花了1周时间把所有操作项都尝试了一遍，并尝试了解光圈、快门、感光度三剑客的基本关系。</p>
+<p>我很兴奋打算尝试我的第一个想法：实践不同色调物体与强调度之间的感觉（《摄影构图学P30》所提及的相关内容）。</p>
+<p>实践清单：</p>
+<table>
+<thead>
+<tr>
+<th>被摄物体</th>
+<th>背景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🍊（亮色调）</td>
+<td>白纸（亮色调）</td>
+</tr>
+<tr>
+<td>👝（中等色调）</td>
+<td>沙发（中等色调）</td>
+</tr>
+<tr>
+<td>⚫（暗色调）</td>
+<td>黑色衬衫（暗色调）</td>
+</tr>
+</tbody>
+</table>
+<p>拍摄结果：</p>
+<p><img src="http://p122m5r0o.bkt.clouddn.com/%E8%A2%AB%E6%91%84%E7%89%A9%E4%BD%93%E8%89%B2%E8%B0%83%E4%B9%8B%E9%97%B4%E4%B8%8D%E5%90%8C%E7%9A%84%E6%84%9F%E8%A7%89.png" alt="不同色调物体搭配与强调关系"></p>
+<p>按照强调关系排序：</p>
+<ol>
+<li>🍊搭配黑色衬衫</li>
+<li>🍊搭配沙发</li>
+<li>👝搭配白纸</li>
+<li>👝搭配黑色衬衫</li>
+<li>⚫搭配白纸</li>
+<li>⚫搭配沙发</li>
+</ol>
+<p>确认第一项、第二项的排序很符合我的认知。但是由于卡包的色调偏暗了些，而且耳机壳的材质具有反光的属性，后面几项的排序显得难以捉摸。<br>强调与物体色调的关系到此结束。</p>
+<p>观察6张图片，我更偏爱1和6两种搭配结果。<br>组合1：黑色衬衫在橘子的反光下显得有些偏蓝（白平衡调至白炽灯），橘子在黑色背景下显得光感充足，第一眼就可以捕捉到视觉中心<br>组合6：黑色耳机壳在灰色沙发上显得很有质感，与白纸背景相比减淡了投影，显得更加柔和、更加凸显质感</p>
+<p>这次拍摄中最意外的收获莫过于黑色衬衫，一块干净充满质感的背景。</p>
+<p>下次拍摄内容计划：侧光、逆光、顺光下物体拍摄。🍊没被吃掉的话，它应该是主角。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Shoot </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 摄影 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Vue-i18n 5.x在管理端项目中的应用]]></title>
+      <url>/2017/12/20/vue-i18n-talking/</url>
+      <content type="html"><![CDATA[<h1 id="0x02-Vue-i18n-5-x在管理端项目中的应用"><a href="#0x02-Vue-i18n-5-x在管理端项目中的应用" class="headerlink" title="0x02 Vue-i18n 5.x在管理端项目中的应用"></a>0x02 Vue-i18n 5.x在管理端项目中的应用</h1><p>目前状态是身先士卒的卒，目标是给出合理的方案。</p>
+<p>进入<a href="https://github.com/kazupon" target="_blank" rel="noopener">kazuya</a>的github，有几点引起了我的注意。</p>
+<p>Section 1:</p>
+<p><img src="/2017/12/20/vue-i18n-talking/commit-kazuya.png" alt="commit kazuya"></p>
+<p><img src="/2017/12/20/vue-i18n-talking/commit-razor.png" alt="commit razor"></p>
+<p>心情像是去上初中第一节课，老师和大家说，如果要读一所不错的大学，你需要付出的努力</p>
+<p>Section 2:</p>
+<p><img src="/2017/12/20/vue-i18n-talking/commit-view.png" alt="commit-view"></p>
+<p>有趣的git提交标记</p>
+<p>📝(docs) 🔧(config) 🆙(update) 📦(build) 🍭(examples)</p>
+<p>🐛(bug) 🔥(fire) ⚡(impovement) ✨(release) 📌(dependency) </p>
+<p>✅(test) ⭐(new)</p>
+<h2 id="Vue-i18n-5-x与6-x的区别"><a href="#Vue-i18n-5-x与6-x的区别" class="headerlink" title="Vue-i18n 5.x与6.x的区别"></a>Vue-i18n 5.x与6.x的区别</h2><p>vue-i18n 6.x作为5.x的大版本迭代，当然比5.x优秀。主要体现在以下几个方面：</p>
+<ul>
+<li>文档质量（5.x的文档隐藏的信息得从issue去读取切换语言的方法等）</li>
+<li>自定义指令（个人觉得在6.x中一个实用的新功能，主要能力是降低了切换语言的性能成本）</li>
+<li>默认支持了日期、货币的一些方法</li>
+</ul>
+<h2 id="多语言应用场景"><a href="#多语言应用场景" class="headerlink" title="多语言应用场景"></a>多语言应用场景</h2><h3 id="vue业务组件"><a href="#vue业务组件" class="headerlink" title="vue业务组件"></a>vue业务组件</h3><p>如果想要在js中引用，那就必须引入Vue-i18n实例。实际应用中甚至你会发现有些词它是不会更新的，因为开发者常常会把值赋给对应的变量，而再引入js文件传入vue对象。这时候引用关系就丢失了（数组和对象除外）。</p>
+<blockquote>
+<p>!组件开发中最好尽量别引入vue-i18n</p>
+</blockquote>
+<p>组件作为一个独立的单元，实现可拔插是一个基本原则，不应当去依赖项目中的vue-i18n。</p>
+<h2 id="复数等特殊应用"><a href="#复数等特殊应用" class="headerlink" title="复数等特殊应用"></a>复数等特殊应用</h2><p>5.x提供$tc方法去判断单复数。6.x提供了货币以及日期的国际化</p>
+<h2 id="暂定的方案"><a href="#暂定的方案" class="headerlink" title="暂定的方案"></a>暂定的方案</h2><ol>
+<li>先说说被否决的方案：放置在组件内。这种方式方便开发者去快速修改和定位，如果需要提取给翻译者恐怕不太合适。</li>
+<li>采用的方案：以页面为单位分成多个json文件（这种方法仍待验证）</li>
+</ol>
+<p>对于第二种方案，阐述下基本思路：</p>
+<p>优先级 store &gt; localstorage &gt; 浏览器 &gt; 默认值</p>
+<p>这里可以分为三种情况：</p>
+<ol>
+<li>初次进入页面且没有localstorage，我们取到浏览器的值，再请求配置项，如果配置项语言与初设值不同，那么需要修改当前语言设置</li>
+<li>初次进入页面但是存在localstorage，我们取到上一次用户的习惯值（localstorage值）</li>
+<li>单页面应用页面间跳转，我们取到store的值</li>
+</ol>
+<p>响应用户动态切换语言操作：</p>
+<ol>
+<li>设置请求头里的语言配置参数Access-Language</li>
+<li>存储新的语言值至localstorage</li>
+<li>设置html 语言</li>
+<li>切换i18n的语言</li>
+<li>当前页面重新请求数据</li>
+</ol>
+<h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ol>
+<li>如果通过props传入i18n的语言值，需要注意子组件内二次赋值导致引用丢失</li>
+<li>通过浏览器拿到的语言不一定在支持列表里，所以需要配置fallback值</li>
+</ol>
+<h2 id="存在的疑惑"><a href="#存在的疑惑" class="headerlink" title="存在的疑惑"></a>存在的疑惑</h2><p>关于重新请求页面的数据的处理方式。提出两个方案：</p>
+<ol>
+<li>给最外层的router-view设置一个时间戳key，每当语言切换后重新渲染所有的组件。这样的做法是不够优雅的，但是不必在每个组件内去单独监听语言值的变化。</li>
+<li><p>每个组件内单独监听语言的变化，重新发起对应的数据请求</p>
+<p>我更倾向于第二种。下一次重新审视这个问题，我相信能给出具体的原因去阐述自己的选择。</p>
+</li>
+</ol>
+<h2 id="End"><a href="#End" class="headerlink" title="End"></a>End</h2><p>文章持续更新，大家可以在下方留言</p>
+]]></content>
+      
+        <categories>
+            
+            <category> Front-end </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[前端工具收录表]]></title>
+      <url>/2017/12/16/tools-0x00/</url>
+      <content type="html"><![CDATA[<h1 id="0x00-工具集合"><a href="#0x00-工具集合" class="headerlink" title="0x00 工具集合"></a>0x00 工具集合</h1><p>持续更新，希望大家也能分享自己平时收录的实用工具</p>
+<h2 id="常用工具"><a href="#常用工具" class="headerlink" title="常用工具"></a>常用工具</h2><p>在线格式转换 <a href="https://cloudconvert.com/" target="_blank" rel="noopener">CloudConvert</a></p>
+<p>网络测速工具 <a href="http://beta.speedtest.net/" target="_blank" rel="noopener">Speed test</a></p>
+<p>全球 PING工具 [Just ping][<a href="http://justping.com/" target="_blank" rel="noopener">http://justping.com/</a>]</p>
+<p>正则可视化 <a href="https://regexper.com/" target="_blank" rel="noopener">Regexper</a></p>
+<p>图片压缩 <a href="https://tinypng.com/" target="_blank" rel="noopener">TinyPNG</a></p>
+<p>百度Doc提取 <a href="http://47.95.226.123/wenku/" target="_blank" rel="noopener">Doc</a></p>
+<p>SVG几何图生成工具 <a href="http://qrohlf.com/trianglify-generator/" target="_blank" rel="noopener">Trianglify generator</a></p>
+<p>渐变色工具 <a href="http://gradient.awesomes.cn/" target="_blank" rel="noopener">Gradient</a></p>
+<p>css animate代码生成工具 <a href="http://cssanimate.com/" target="_blank" rel="noopener">css animate generate</a></p>
+<p>css filter 滤镜调试工具 <a href="http://html5-demos.appspot.com/static/css/filters/index.html" target="_blank" rel="noopener">css filter</a></p>
+<h2 id="速查工具"><a href="#速查工具" class="headerlink" title="速查工具"></a>速查工具</h2><p>单词缩写 <a href="http://shortof.com/" target="_blank" rel="noopener">Shortof</a></p>
+<p>正则速查 <a href="https://www.debuggex.com/cheatsheet/regex/javascript" target="_blank" rel="noopener">Regex</a></p>
+<p>JS API速查 <a href="https://www.debuggex.com/cheatsheet/regex/javascript" target="_blank" rel="noopener">Javascript API</a></p>
+<p>Flexbox 速查 <a href="https://yoksel.github.io/flex-cheatsheet/" target="_blank" rel="noopener">Flexbox</a></p>
+<p>HTML ascii速查 <a href="http://www.w3school.com.cn/tags/html_ref_ascii.asp" target="_blank" rel="noopener">ascii</a></p>
+<p>File mimes速查 <a href="http://blog.csdn.net/zhuyangru/article/details/70254789" target="_blank" rel="noopener">mimes</a></p>
+<p>Can I use 浏览器特性支持速查 <a href="http://caniuse.com/" target="_blank" rel="noopener">Can I use</a></p>
+<p>Vue API速查 <a href="https://vuejs-tips.github.io/cheatsheet/" target="_blank" rel="noopener">Vue API</a></p>
+<p>Vuex API速查 <a href="https://vuejs-tips.github.io/vuex-cheatsheet/" target="_blank" rel="noopener">Vuex API</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Tool </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 前端 </tag>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[About me]]></title>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<blockquote>
+<p>喜欢素描、鬼畜，理智的射手座宅男</p>
+</blockquote>
+<p>Name<br><strong>Razor</strong></p>
+<p>Email<br><strong>baozhejun@outlook.com</strong></p>
+<p>Github<br><strong><a href="https://github.com/OckhamRazor" target="_blank" rel="noopener">https://github.com/OckhamRazor</a></strong></p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[gallery]]></title>
+      <url>/gallery/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[timeline]]></title>
+      <url>/world-lines/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+  
+</search>
